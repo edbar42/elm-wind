@@ -20,12 +20,12 @@ cd elm-wind
 
 2. Install dependencies:
 ```bash
-pnpm install
+pnpm i
 ```
 
 3. Start the development server:
 ```bash
-npx elm-land server
+npm run dev
 ```
 
 Your app will be running at `http://localhost:1234` (or the next available port).
@@ -43,4 +43,3 @@ Elm Land projects are commonly deployed as static websites. You can deploy your 
 - [Elm Land](https://elm.land/guide)
 - [Tailwind CSS](https://tailwindcss.com/docs)
 - [pnpm](https://pnpm.io/motivation)
-```
